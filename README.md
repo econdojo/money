@@ -29,3 +29,30 @@ This course provides an in-depth study of money, commercial banking, and monetar
 * [Supplementary: Fiscal Theory of Price Level](https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1) (by John Cochrane)
 * [Supplementary: Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018) (by Gary Gensler)
 * [Math Refresher](/pdf/app.pdf)
+
+## 🤖 Teaching Assistant
+
+This course includes an AI-powered teaching assistant available 24/7 to help you master concepts, work through problems, and prepare for exams. The digital TA is trained on all course materials and provides personalized learning support.
+
+### Getting Started
+
+1. **Download this repository** (click the green "Code" button → "Download ZIP")
+2. **Install [VS Code](https://code.visualstudio.com)** (free)
+3. **Install GitHub Copilot extension** (free for students via [GitHub Student Developer Pack](https://education.github.com/pack))
+4. **Open this folder in VS Code** and launch Copilot Chat to start learning!
+
+### What the TA Can Do
+
+- Explain concepts with step-by-step clarity
+- Guide you through problem-solving
+- Answer questions at your own pace, anytime
+- Help you prepare for exams
+
+### Example Questions
+
+- "Walk me through calculating yield to maturity for a coupon bond"
+- "How does the Taylor Rule determine the target federal funds rate?"
+- "Help me understand problem 3 from Lecture 4."
+- "Why does uncovered interest parity imply that high foreign rates mean expected depreciation?"
+
+**Remember:** The TA is designed to enhance your learning, not replace it. Use it to deepen understanding while actively engaging with the material.
